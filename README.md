@@ -1,3 +1,3 @@
-# Writing a README sample
+# Writing a README 
 
 This is my first project!
